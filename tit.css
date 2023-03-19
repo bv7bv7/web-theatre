@@ -1,0 +1,23 @@
+BODY {
+	background : Black url(bg.jpg) repeat;
+	color : Silver;
+	text-align : center;
+	overflow : auto;
+}
+BODY {
+	filter :?;
+	background : Black url(bg.jpg) no-repeat fixed bottom;
+}
+.title {
+	color : Yellow;
+	text-align : center;
+	font-size : xx-large;
+	font-style : italic;
+	font-weight : bold;
+}
+.title {
+	color : White;
+	letter-spacing : 20px;
+	filter : glow(Color=coral,Strength=10);
+	vertical-align : super;
+}

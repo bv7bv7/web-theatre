@@ -1,0 +1,64 @@
+BODY {
+	background : Black;
+	color : Silver;
+	text-align : justify;
+	overflow : auto;
+}
+dfn
+{
+	text-align: center;
+	font-size: large;
+	font-weight: bold;
+	display: block;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+cite
+{
+	text-align: justify;
+	font-size: medium;
+	display: block;
+	margin-left: 50%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-style: normal;
+	font-weight: normal;
+}
+em
+{
+	text-align: justify;
+	font-weight: bold;
+	font-size: medium;
+	font-style: normal;
+	text-indent : 50px;
+	display: block;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+h1
+{
+	font-size: large;
+	margin-top: 20px;
+	margin-bottom: 5px;
+	text-indent : 50px;
+}
+P
+{
+	text-indent: 50px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-size: small;
+}
+h2
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-indent: 50px;
+	font-weight: bold;
+	font-size: small;
+}
+h3
+{
+	font-weight: bold;
+	text-align: right;
+}

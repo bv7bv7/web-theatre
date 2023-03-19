@@ -1,0 +1,12 @@
+BODY {
+	background: Black;
+	margin : 10px 0px 10px 0px;
+}
+a
+{
+}
+a:hover
+{
+	background: url(img/menuc.gif) no-repeat;
+	font-size: 27px;
+}

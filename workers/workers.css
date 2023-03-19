@@ -1,0 +1,51 @@
+H1,H3 {
+	font-size : x-large;
+	font-weight : bold;
+}
+H2,H4 {
+	font-size : large;
+	font-style : italic;
+}
+H1,H2 {
+	text-align : right;
+}
+H3,H4 {
+	text-align : left;
+}
+TABLE {
+	text-align : justify;
+	border-bottom : thick groove Silver;
+}
+THEAD{
+	text-align : center;
+	font-size : large;
+	font-weight : bold;
+}
+TR {
+	vertical-align : top;
+}
+TD {
+	padding : 10px 10px 10px 15px;
+	margin : 5px 5px 5px 5px;
+}
+IMG{
+	border : thick groove Silver;
+}
+.title {
+	letter-spacing : normal;
+	font-size : large;
+	font-weight : bold;
+}
+.l {
+	display : list-item;
+	text-align : left;
+}
+A:LINK,A:VISITED {
+	list-style : circle;
+	color : Silver;
+	font-weight : bold;
+}
+A:HOVER {
+	list-style : square;
+	color : White;
+}

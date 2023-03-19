@@ -1,0 +1,20 @@
+.title {
+	filter : dropShadow(color=#303018,offX=-5,offY=5) ;
+}
+td, marquee, center {
+	text-align : center;
+}
+.foot {
+	letter-spacing : 8px;
+	color :#BDB76B;
+	font-style : italic;
+	font-weight : bold;
+	font-size : large;
+}
+td, marquee, center {
+	width : 100%;
+}
+.link 
+{
+	text-align : right;
+}

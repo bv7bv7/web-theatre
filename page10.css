@@ -1,0 +1,7 @@
+.kt, .vl {
+	font-weight : bold;
+	border-bottom : double;
+}
+.kt {
+	font-size : large;
+}

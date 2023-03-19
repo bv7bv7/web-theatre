@@ -1,0 +1,22 @@
+IMG {
+	border : 5px inset White;
+	margin : 10px 0px 10px 0px;
+	width : 150px;
+	height : 113px;
+}
+.i2 {
+	width : 85px;
+	margin-right : 33px;
+	margin-left : 32px;
+}
+A:LINK,A:VISITED {
+	padding : 5px 5px 5px 5px;
+	margin-right : 10px;
+	margin-bottom : 10px;
+}
+A:HOVER {
+	border-bottom : 5px inset Yellow;
+	border-right : 5px inset Yellow;
+	margin-right : 5px;
+	margin-bottom : 5px;
+}

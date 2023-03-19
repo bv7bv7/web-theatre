@@ -1,0 +1,40 @@
+A:LINK,A:VISITED {
+	color : Silver;
+}
+.forum_subj,.forum_poster:LINK,.forum_date {
+	color : Yellow;
+	font-style : italic;
+	font-size : x-small;
+}
+A:HOVER {
+	color : White;
+}
+HR {
+	color : #494949;
+}
+.forum_message {
+	font-style : italic;
+	font-size : medium;
+}
+.forum_form_name,.forum_form_email,.forum_form_subj {
+	color : Yellow;
+	font-weight : bold;
+}
+.forum_form_message {
+	color : White;
+}
+.forum_form_name,.forum_form_email,.forum_form_subj,.forum_form_message {
+	background-color : Black;
+	border : inset Gray;
+	filter : alpha(opacity=55);
+}
+.forum_form_submit {
+	border : thin outset Gray;
+	background-color : Gray;
+	font-weight : bold;
+	cursor : hand;
+}
+.forum_a {
+	font-size : x-small;
+}
+th, td {border: 1px solid #80B6EF; background: black none repeat scroll 0%; padding: 5px}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<html>
+	<head>
+		<title>Могилевский областной драматический Театр - Гостевая книга</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=Windows-1251">
+		<link href="tit.css" rel="stylesheet" />
+		<link href="page11.css" rel="stylesheet" />
+	</head>
+	<body>
+		<table align="center" width="100%">
+			<tr>
+				<td class="title" nowrap>‡ Гостевая книга ‡</td>
+			</tr>
+		</table>
+		<br />
+		<!-- #include virtual=forum.cgi?fid=35357-->
+		<!--#include virtual="/forum.cgi?fid=32122&charset=windows-1251"-->
+		<script language="javascript" src="page11.js"></script>
+	</body>
+</html>
+<html>
+	<noframes>
+		<noscript>
+			<!--

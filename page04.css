@@ -1,0 +1,45 @@
+BODY {
+	background : Black;
+	color : Silver;
+	text-align : justify;
+	overflow : auto;
+}
+P {
+	text-indent : 30px;
+	margin-top : 0px;
+	margin-bottom : 0px;
+}
+BIG {
+	text-indent : 0px;
+	color : White;
+	font-size : 400%;
+	font-weight : bold;
+}
+IMG {
+	margin : 10px 0px 10px 0px;
+	border : medium ridge;
+}
+H1,H2 {
+	text-align : center;
+	background-color : Black;
+	color : Silver;
+	font-size : x-small;
+}
+H1 {
+	float : right;
+	text-align : right;
+	margin : 5px 0px 5px 5px;
+	padding : 5px 0px 5px 5px;
+}
+H2 {
+	float : left;
+	text-align : left;
+	margin : 5px 5px 5px 0px;
+	padding : 5px 5px 5px 0px;
+}
+A:LINK,A:VISITED {
+	color : Silver;
+}
+A:HOVER {
+	color : White;
+}

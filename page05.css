@@ -1,0 +1,65 @@
+HR {
+	margin-top : 30px;
+}
+
+H1 {
+	font-weight : bold;
+	font-size : large;
+}
+P {
+	text-align : justify;
+	text-indent : 40px;
+	font-size : large;
+}
+.rp1, .rp2 {
+	background : Black no-repeat;
+	width : 100%;
+	height : 569px;
+}
+.nm1,.nm2 {
+	filter : dropShadow(color=#808080,offX=2,offY=-2);
+	font-weight : bold;
+	font-size : x-large;
+}
+.rp1 {
+	background-position : right;
+}
+.rp2 {
+	background-position : left;
+}
+.rp1,.nm1 {
+	text-align:left;
+}
+.rp2,.nm2 {
+	text-align:right;
+	width : 100%;
+}
+.l {
+	display : list-item;
+	margin-left : 10px;
+	text-align : left;
+}
+.ct,.pt
+{
+	width:30%;
+}
+.ct
+{
+	text-align:left;
+}
+.pt
+{
+	text-align:right;
+}
+A:LINK,A:VISITED {
+	list-style : circle;
+	color : Silver;
+	font-weight : bold;
+}
+A:HOVER {
+	list-style : square;
+	color : White;
+}
+BODY {
+	text-align : left;
+}

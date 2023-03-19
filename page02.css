@@ -1,0 +1,73 @@
+CAPTION{
+	font-size : large;
+}
+TD{
+	margin : 0px 0px 0px 0px;
+	padding : 0px 0px 0px 0px;
+	text-align : center;
+}
+A {
+	color : White;
+	padding-left : 5px;
+	padding-right : 5px;
+}
+A:HOVER {
+	border : 1px groove;
+	padding-left : 4px;
+	padding-right : 4px;
+	background-color : Black;
+	font-weight : bolder;
+}
+A:VISITED {
+	color : Silver;
+}
+.calh {
+	color : Yellow;
+	font-weight : bold;
+}
+.calb{
+	color : #909090;
+}
+.calh,.calb{
+	border-bottom : thin groove;
+}
+.tim,.nam,.ref,.rem{
+	color : Silver;
+	font-weight : bold;
+}
+.tim{
+	text-align : left;
+	font-size : medium;
+}
+.nam{
+	font-size : large;
+}
+.ref,.rem{
+	font-size : small;
+}
+.rem{
+	text-align : right;
+}
+.prc1,.prc2,.prc3,.prc4{
+	font-weight : bolder;
+	text-align : right;
+	font-size : x-small;
+}
+.prc1,.prc3{
+	color : White;
+}
+.prc2,.prc4{
+	color : Black;
+}
+.prc1{
+	background : Red;
+}
+.prc2{
+	background : Yellow;
+}
+.prc3{
+	background : Blue;
+}
+.prc4{
+	background : Green;
+}

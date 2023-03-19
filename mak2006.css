@@ -1,0 +1,36 @@
+BODY
+{
+	color: silver;
+	background: url(bg.jpg) black fixed no-repeat center bottom;
+}
+H1
+{
+	color: Red;
+	text-transform: uppercase;
+	text-decoration: underline;
+	margin-bottom: 0px;
+}
+H2
+{
+	text-transform: lowercase;
+	color: red;
+	text-decoration: underline;
+	margin-bottom: 2px;
+}
+h3
+{
+	color: silver;
+	font-weight: bold;
+	margin-top: 8px;
+	margin-bottom: 2px;
+}
+i
+{
+	color: red;
+	font-weight: bold;
+}
+h4
+{
+	font-weight: bold;
+	font-size: large;
+}

@@ -1,0 +1,19 @@
+BODY {
+	background : Black;
+	margin : 10px 0px 10px 0px;
+}
+A:HOVER {
+	background : url(menuc.gif) no-repeat fixed;
+}
+#bv7inc {
+	position : absolute;
+	visibility : hidden;
+}
+#bv7cnt {
+	vertical-align : bottom;
+	height : 27px;
+	background-image : url(menu73.jpg);
+	font-weight : bold;
+	width : 115px;
+	text-align : center;
+}
